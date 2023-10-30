@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project leverages Hugging Face Transformers, particularly the Vision Transformer (ViT), to perform image captioning. The project aims to use computer vision and natural language processing techniques to generate descriptive captions for images.
+This project uses the flickr-8k dataset to build a image captioning model. For better performance, I tried using Hugging Face Transformers, particularly the Vision Transformer (ViT), to perform image captioning. The project aims to use computer vision and natural language processing techniques to generate descriptive captions for images.
 
 ## Key Objectives
 
